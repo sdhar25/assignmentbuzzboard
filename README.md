@@ -3,7 +3,7 @@
 2. npm install
 3. Mongo db should be there
 4. Run using nodemon src/index
-5. In postman create new collection 
+5. In postman create new collection  
     a. set environment and environment variable {{url}} whose value is localhost:3000 
 6. Q1 Create a new order by accepting the following JSON payload as a POST request, validate for
       duplicate orders based on order_id
